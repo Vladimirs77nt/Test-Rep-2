@@ -3,4 +3,4 @@ Hello GIT !
 Hello Local PC
 Line Conflict
 
-LOCAL CONFLICT !!!
+Conflict GitHub...
