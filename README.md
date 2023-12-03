@@ -3,4 +3,4 @@ Hello GIT !
 
 Hello Local PC
 
-REP-2
+Line Conflict
