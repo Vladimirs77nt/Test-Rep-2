@@ -1,2 +1,2 @@
 # Test-Rep-1
-Hellow GIT !
+Hello GIT !
